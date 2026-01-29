@@ -5,6 +5,7 @@
 > **Caisse Shop** (events/namespace `ducratif_lootbox`) est une ressource FiveM **boutique de caisses + récompenses à récupérer + historique + top acheteurs**, avec une **NUI** intégrée et un **Saison Passe** (récompenses par niveaux + défis configurables).
 
 **Discord (support / communauté) :** https://discord.gg/kpD8pQBBWm
+**Vidéo Youtube V1.0.0:** [Youtube/Ducratif](https://www.youtube.com/watch?v=7QnTdb4Oh8E)
 
 ---
 
